@@ -1,2 +1,1 @@
-# Validation_using-JQuery
- Validate Sign up using jQuery By LearnCode JavaDeveloper =================================================================   Technologies Used  -1- Html -2- Jquery CDN -3- Bootstrap CDN -4- FontAwesome CDN -5- Bracket -6- Done  OR  Source Code :- https://drive.google.com/open?id=1U5WX2_aumuAhB_V9zplLbQhnyb1v8baT  Demo :-   _____________________________________________________________  Uplaod By LearnCode JavaDeveloper  Email:- Learncodejavadeveloper@gmail.com  Mail us If any Query.  Please Support Us By Sharing Video And Liking &amp; Subscribe us.
+
